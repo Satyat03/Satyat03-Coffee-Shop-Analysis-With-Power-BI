@@ -11,3 +11,6 @@ Objective
 #Total Quantity Sold Analysis: Analyze the quantity of items sold each month and track changes over time.
 
 #Visual Insights: Create dynamic and interactive visual representations of sales data to facilitate better understanding and decision-making.
+
+
+## Summary
