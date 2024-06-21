@@ -5,6 +5,9 @@ The goal of this analysis is to provide a clear and detailed overview of our sal
 Objective
 
 #Total Sales Analysis: Assess monthly sales figures and identify trends by calculating month-on-month changes.
+
 #Total Orders Analysis: Evaluate the number of orders placed each month and determine monthly variations.
+
 #Total Quantity Sold Analysis: Analyze the quantity of items sold each month and track changes over time.
+
 #Visual Insights: Create dynamic and interactive visual representations of sales data to facilitate better understanding and decision-making.
